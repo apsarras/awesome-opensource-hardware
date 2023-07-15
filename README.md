@@ -276,10 +276,14 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Python based Printed Circuit Board (PCB) layout and design package based on CuFlow
 
 ## Chip Layout
+* [AutoDMP](https://github.com/NVlabs/AutoDMP)
+  * Auto-placement tool; requires DREAMPlace
 * [chip_art](https://github.com/jazvw/chip_art)
   * Convert an image to a GDS format for inclusion in a zerotoasic project
 * [coriolis](https://gitlab.lip6.fr/vlsi-eda/coriolis.git)
   * RTL2GDS toolchain for mature nodes
+* [DREAMPlace](https://github.com/limbo018/DREAMPlace)
+  * Deep learning toolkit-enabled VLSI placement
 * [gds3d](https://github.com/trilomix/GDS3D)
   * Reads GDSII layout and renders in 3D.
 * [gdsfactory](https://github.com/gdsfactory/gdsfactory)
